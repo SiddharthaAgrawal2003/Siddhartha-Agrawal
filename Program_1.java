@@ -56,7 +56,7 @@ public class Program_1 {
             System.out.print("Enter value of b: ");
             double b = scanner.nextDouble();
 
-            scanner.nextLine(); // Consume leftover newline
+            scanner.nextLine();
 
             System.out.print("Enter operation (add / subtract / multiply / divide): ");
             String operation = scanner.nextLine();
