@@ -1,4 +1,3 @@
-package com.example.test;
 import java.util.Scanner;
 class CalculationException extends RuntimeException {
 
