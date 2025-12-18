@@ -45,20 +45,21 @@ This program generates the first `a` odd numbers using a recursive approach with
 
 ---
 
-###  Problem-3: Conditional Odd Number Series
-This program generates odd numbers based on whether the input value is even or odd.
+### 📘 Problem-3: Conditional Odd Number Series Using Recursion
+This program generates a series of odd numbers based on a mathematical calculation of required terms.
 
 **Features:**
-- If the input is even, odd numbers are generated up to `a − 1`
-- If the input is odd, odd numbers are generated up to `a`
-- Uses recursion to generate the series
-- Ensures correct output formatting
+- Accepts a single integer `a` as input
+- Calculates the number of odd terms using the formula: terms = (a + 1) / 2
+- Uses recursion to generate and print the odd number series
+- No loops are used in the program
+- Ensures proper formatting of output
 
 **Concepts Used:**
-- Conditional logic
 - Recursion
 - Mathematical reasoning
-- Input validation
+- Integer arithmetic
+- Scanner-based input
 
 ---
 
