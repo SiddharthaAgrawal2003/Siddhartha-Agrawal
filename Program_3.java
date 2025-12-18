@@ -1,4 +1,3 @@
-package com.example.test2;
 import java.util.Scanner;
 public class Program_3 {
     public static void printSeries(int terms, int current) {
@@ -24,6 +23,7 @@ public class Program_3 {
         scanner.close();
     }
 }
+
 
 
 
