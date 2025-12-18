@@ -1,4 +1,3 @@
-package com.example.test2;
 import java.util.*;
 public class Program_4 {
     public static void main(String[] args) {
@@ -27,5 +26,6 @@ public class Program_4 {
         scanner.close();
     }
 }
+
 
 
