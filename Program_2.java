@@ -1,4 +1,3 @@
-package com.example.test2;
 import java.util.Scanner;
 public class Program_2 {
     public static void printOddSeries(int a, int current) {
