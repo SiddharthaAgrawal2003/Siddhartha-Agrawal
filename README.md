@@ -28,7 +28,7 @@ This program demonstrates object-oriented programming by implementing a calculat
 - Scanner-based input
 
 ---
-### 📘 Problem-2: Odd Number Series Using Recursion
+###  Problem-2: Odd Number Series Using Recursion
 This program generates the first `a` odd numbers using a recursive approach without using any loop.
 
 **Features:**
@@ -45,7 +45,7 @@ This program generates the first `a` odd numbers using a recursive approach with
 
 ---
 
-### 📘 Problem-3: Conditional Odd Number Series
+###  Problem-3: Conditional Odd Number Series
 This program generates odd numbers based on whether the input value is even or odd.
 
 **Features:**
@@ -62,7 +62,7 @@ This program generates odd numbers based on whether the input value is even or o
 
 ---
 
-### 📘 Problem-4: Count of Multiples (1 to 9)
+###  Problem-4: Count of Multiples (1 to 9)
 This program counts how many numbers in the input list are multiples of values from 1 to 9.
 
 **Features:**
